@@ -317,21 +317,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\hasan\OneDrive\Belgeler\GitHub\Puzzle_Game\PuzzleGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e2770000
-    m_LastClickedID: 30690
+    m_SelectedIDs: e4770000
+    m_LastClickedID: 30692
     m_ExpandedIDs: 00000000e2770000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
